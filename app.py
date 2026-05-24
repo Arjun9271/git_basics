@@ -1,9 +1,9 @@
 class Students:
-    def __init__(self,name,s_class,roll_number,section):
+    def __init__(self,name,s_class,roll_number):
         self.name = name
         self.s_class = s_class
         self.roll_number = roll_number
-        self.section = section
+      
         
         
         
