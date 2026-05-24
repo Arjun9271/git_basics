@@ -9,5 +9,6 @@ class Students:
         
 student_1 = Students("ram","10th",1025,'B')
 student_2 = Students('arjun','10th',72,'A')
+student_3 = Students('vikram',"12th",1234,'C')
 
 print(student_1.name)
